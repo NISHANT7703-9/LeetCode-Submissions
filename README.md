@@ -11,10 +11,12 @@ A structured collection of LeetCode problem-solving solutions in Python, coverin
 |  |
 | ------- |
 | [0274-h-index](https://github.com/NISHANT7703-9/LeetCode-Submissions/tree/master/0274-h-index) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/NISHANT7703-9/LeetCode-Submissions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Sorting
 |  |
 | ------- |
 | [0274-h-index](https://github.com/NISHANT7703-9/LeetCode-Submissions/tree/master/0274-h-index) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/NISHANT7703-9/LeetCode-Submissions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Counting Sort
 |  |
 | ------- |
@@ -23,4 +25,16 @@ A structured collection of LeetCode problem-solving solutions in Python, coverin
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/NISHANT7703-9/LeetCode-Submissions/tree/master/1291-sequential-digits) |
+## Binary Search
+|  |
+| ------- |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/NISHANT7703-9/LeetCode-Submissions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/NISHANT7703-9/LeetCode-Submissions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+## Matrix
+|  |
+| ------- |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/NISHANT7703-9/LeetCode-Submissions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 <!---LeetCode Topics End-->
