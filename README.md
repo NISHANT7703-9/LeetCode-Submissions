@@ -19,4 +19,8 @@ A structured collection of LeetCode problem-solving solutions in Python, coverin
 |  |
 | ------- |
 | [0274-h-index](https://github.com/NISHANT7703-9/LeetCode-Submissions/tree/master/0274-h-index) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/NISHANT7703-9/LeetCode-Submissions/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
