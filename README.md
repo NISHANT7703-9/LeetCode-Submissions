@@ -21,6 +21,7 @@ A structured collection of LeetCode problem-solving solutions in Python, coverin
 |  |
 | ------- |
 | [0274-h-index](https://github.com/NISHANT7703-9/LeetCode-Submissions/tree/master/0274-h-index) |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/NISHANT7703-9/LeetCode-Submissions/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 ## Enumeration
 |  |
 | ------- |
@@ -40,6 +41,7 @@ A structured collection of LeetCode problem-solving solutions in Python, coverin
 ## String
 |  |
 | ------- |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/NISHANT7703-9/LeetCode-Submissions/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/NISHANT7703-9/LeetCode-Submissions/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3614-process-string-with-special-operations-ii](https://github.com/NISHANT7703-9/LeetCode-Submissions/tree/master/3614-process-string-with-special-operations-ii) |
 ## Simulation
@@ -47,4 +49,8 @@ A structured collection of LeetCode problem-solving solutions in Python, coverin
 | ------- |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/NISHANT7703-9/LeetCode-Submissions/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3614-process-string-with-special-operations-ii](https://github.com/NISHANT7703-9/LeetCode-Submissions/tree/master/3614-process-string-with-special-operations-ii) |
+## Hash Table
+|  |
+| ------- |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/NISHANT7703-9/LeetCode-Submissions/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 <!---LeetCode Topics End-->
