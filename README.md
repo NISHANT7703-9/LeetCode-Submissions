@@ -50,6 +50,7 @@ A structured collection of LeetCode problem-solving solutions in Python, coverin
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/NISHANT7703-9/LeetCode-Submissions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/NISHANT7703-9/LeetCode-Submissions/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3614-process-string-with-special-operations-ii](https://github.com/NISHANT7703-9/LeetCode-Submissions/tree/master/3614-process-string-with-special-operations-ii) |
+| [3798-largest-even-number](https://github.com/NISHANT7703-9/LeetCode-Submissions/tree/master/3798-largest-even-number) |
 ## Simulation
 |  |
 | ------- |
