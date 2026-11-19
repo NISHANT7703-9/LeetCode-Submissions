@@ -12,12 +12,14 @@ A structured collection of LeetCode problem-solving solutions in Python, coverin
 | ------- |
 | [0274-h-index](https://github.com/NISHANT7703-9/LeetCode-Submissions/tree/master/0274-h-index) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/NISHANT7703-9/LeetCode-Submissions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/NISHANT7703-9/LeetCode-Submissions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/NISHANT7703-9/LeetCode-Submissions/tree/master/2567-minimum-score-by-changing-two-elements) |
 ## Sorting
 |  |
 | ------- |
 | [0274-h-index](https://github.com/NISHANT7703-9/LeetCode-Submissions/tree/master/0274-h-index) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/NISHANT7703-9/LeetCode-Submissions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/NISHANT7703-9/LeetCode-Submissions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/NISHANT7703-9/LeetCode-Submissions/tree/master/2567-minimum-score-by-changing-two-elements) |
 ## Counting Sort
 |  |
@@ -36,6 +38,7 @@ A structured collection of LeetCode problem-solving solutions in Python, coverin
 |  |
 | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/NISHANT7703-9/LeetCode-Submissions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/NISHANT7703-9/LeetCode-Submissions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Matrix
 |  |
 | ------- |
@@ -44,6 +47,7 @@ A structured collection of LeetCode problem-solving solutions in Python, coverin
 |  |
 | ------- |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/NISHANT7703-9/LeetCode-Submissions/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/NISHANT7703-9/LeetCode-Submissions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/NISHANT7703-9/LeetCode-Submissions/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3614-process-string-with-special-operations-ii](https://github.com/NISHANT7703-9/LeetCode-Submissions/tree/master/3614-process-string-with-special-operations-ii) |
 ## Simulation
@@ -59,4 +63,12 @@ A structured collection of LeetCode problem-solving solutions in Python, coverin
 |  |
 | ------- |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/NISHANT7703-9/LeetCode-Submissions/tree/master/2567-minimum-score-by-changing-two-elements) |
+## Divide and Conquer
+|  |
+| ------- |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/NISHANT7703-9/LeetCode-Submissions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
+## Quickselect
+|  |
+| ------- |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/NISHANT7703-9/LeetCode-Submissions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 <!---LeetCode Topics End-->
