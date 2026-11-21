@@ -12,6 +12,7 @@ A structured collection of LeetCode problem-solving solutions in Python, coverin
 ## Array
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/NISHANT7703-9/LeetCode-Submissions/tree/master/0209-minimum-size-subarray-sum) |
 | [0274-h-index](https://github.com/NISHANT7703-9/LeetCode-Submissions/tree/master/0274-h-index) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/NISHANT7703-9/LeetCode-Submissions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/NISHANT7703-9/LeetCode-Submissions/tree/master/0560-subarray-sum-equals-k) |
@@ -37,6 +38,7 @@ A structured collection of LeetCode problem-solving solutions in Python, coverin
 ## Binary Search
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/NISHANT7703-9/LeetCode-Submissions/tree/master/0209-minimum-size-subarray-sum) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/NISHANT7703-9/LeetCode-Submissions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Heap (Priority Queue)
 |  |
@@ -95,5 +97,10 @@ A structured collection of LeetCode problem-solving solutions in Python, coverin
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/NISHANT7703-9/LeetCode-Submissions/tree/master/0209-minimum-size-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/NISHANT7703-9/LeetCode-Submissions/tree/master/0560-subarray-sum-equals-k) |
+## Sliding Window
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/NISHANT7703-9/LeetCode-Submissions/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
