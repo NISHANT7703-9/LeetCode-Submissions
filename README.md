@@ -19,6 +19,7 @@ A structured collection of LeetCode problem-solving solutions in Python, coverin
 | [0697-degree-of-an-array](https://github.com/NISHANT7703-9/LeetCode-Submissions/tree/master/0697-degree-of-an-array) |
 | [1534-count-good-triplets](https://github.com/NISHANT7703-9/LeetCode-Submissions/tree/master/1534-count-good-triplets) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/NISHANT7703-9/LeetCode-Submissions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
+| [1995-count-special-quadruplets](https://github.com/NISHANT7703-9/LeetCode-Submissions/tree/master/1995-count-special-quadruplets) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/NISHANT7703-9/LeetCode-Submissions/tree/master/2567-minimum-score-by-changing-two-elements) |
 ## Sorting
 |  |
@@ -37,6 +38,7 @@ A structured collection of LeetCode problem-solving solutions in Python, coverin
 | ------- |
 | [1291-sequential-digits](https://github.com/NISHANT7703-9/LeetCode-Submissions/tree/master/1291-sequential-digits) |
 | [1534-count-good-triplets](https://github.com/NISHANT7703-9/LeetCode-Submissions/tree/master/1534-count-good-triplets) |
+| [1995-count-special-quadruplets](https://github.com/NISHANT7703-9/LeetCode-Submissions/tree/master/1995-count-special-quadruplets) |
 ## Binary Search
 |  |
 | ------- |
@@ -71,6 +73,7 @@ A structured collection of LeetCode problem-solving solutions in Python, coverin
 | [0560-subarray-sum-equals-k](https://github.com/NISHANT7703-9/LeetCode-Submissions/tree/master/0560-subarray-sum-equals-k) |
 | [0697-degree-of-an-array](https://github.com/NISHANT7703-9/LeetCode-Submissions/tree/master/0697-degree-of-an-array) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/NISHANT7703-9/LeetCode-Submissions/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
+| [1995-count-special-quadruplets](https://github.com/NISHANT7703-9/LeetCode-Submissions/tree/master/1995-count-special-quadruplets) |
 ## Greedy
 |  |
 | ------- |
