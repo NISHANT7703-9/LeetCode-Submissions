@@ -17,6 +17,7 @@ A structured collection of LeetCode problem-solving solutions in Python, coverin
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/NISHANT7703-9/LeetCode-Submissions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/NISHANT7703-9/LeetCode-Submissions/tree/master/0560-subarray-sum-equals-k) |
 | [0697-degree-of-an-array](https://github.com/NISHANT7703-9/LeetCode-Submissions/tree/master/0697-degree-of-an-array) |
+| [1534-count-good-triplets](https://github.com/NISHANT7703-9/LeetCode-Submissions/tree/master/1534-count-good-triplets) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/NISHANT7703-9/LeetCode-Submissions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/NISHANT7703-9/LeetCode-Submissions/tree/master/2567-minimum-score-by-changing-two-elements) |
 ## Sorting
@@ -35,6 +36,7 @@ A structured collection of LeetCode problem-solving solutions in Python, coverin
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/NISHANT7703-9/LeetCode-Submissions/tree/master/1291-sequential-digits) |
+| [1534-count-good-triplets](https://github.com/NISHANT7703-9/LeetCode-Submissions/tree/master/1534-count-good-triplets) |
 ## Binary Search
 |  |
 | ------- |
