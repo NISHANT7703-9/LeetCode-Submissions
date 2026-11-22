@@ -7,15 +7,19 @@ class Solution:
         #                 return False
         # return True
 
-        found_b = False
+        # found_b = False
 
-        for i in range(len(s)):
+        # for i in range(len(s)):
 
-            if s[i] == 'b':
-                found_b = True
+        #     if s[i] == 'b':
+        #         found_b = True
 
-            elif s[i] == 'a' and found_b:
+        #     elif s[i] == 'a' and found_b:
+        #         return False
+
+        # return True
+        for i in range(len(s)-1):
+            if s[i]=="b" and s[i+1]=="a":
                 return False
-
         return True
         
