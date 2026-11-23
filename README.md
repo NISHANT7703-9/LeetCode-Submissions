@@ -22,6 +22,7 @@ A structured collection of LeetCode problem-solving solutions in Python, coverin
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/NISHANT7703-9/LeetCode-Submissions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [1995-count-special-quadruplets](https://github.com/NISHANT7703-9/LeetCode-Submissions/tree/master/1995-count-special-quadruplets) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/NISHANT7703-9/LeetCode-Submissions/tree/master/2567-minimum-score-by-changing-two-elements) |
+| [2678-number-of-senior-citizens](https://github.com/NISHANT7703-9/LeetCode-Submissions/tree/master/2678-number-of-senior-citizens) |
 ## Sorting
 |  |
 | ------- |
@@ -62,6 +63,7 @@ A structured collection of LeetCode problem-solving solutions in Python, coverin
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/NISHANT7703-9/LeetCode-Submissions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/NISHANT7703-9/LeetCode-Submissions/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/NISHANT7703-9/LeetCode-Submissions/tree/master/2243-calculate-digit-sum-of-a-string) |
+| [2678-number-of-senior-citizens](https://github.com/NISHANT7703-9/LeetCode-Submissions/tree/master/2678-number-of-senior-citizens) |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/NISHANT7703-9/LeetCode-Submissions/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3614-process-string-with-special-operations-ii](https://github.com/NISHANT7703-9/LeetCode-Submissions/tree/master/3614-process-string-with-special-operations-ii) |
 | [3798-largest-even-number](https://github.com/NISHANT7703-9/LeetCode-Submissions/tree/master/3798-largest-even-number) |
