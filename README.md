@@ -10,6 +10,7 @@ A structured collection of LeetCode problem-solving solutions in Python, coverin
 | [0050-powx-n](https://github.com/NISHANT7703-9/LeetCode-Submissions/tree/master/0050-powx-n) |
 | [0509-fibonacci-number](https://github.com/NISHANT7703-9/LeetCode-Submissions/tree/master/0509-fibonacci-number) |
 | [1352-product-of-the-last-k-numbers](https://github.com/NISHANT7703-9/LeetCode-Submissions/tree/master/1352-product-of-the-last-k-numbers) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/NISHANT7703-9/LeetCode-Submissions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/NISHANT7703-9/LeetCode-Submissions/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Array
 |  |
@@ -22,6 +23,7 @@ A structured collection of LeetCode problem-solving solutions in Python, coverin
 | [0766-toeplitz-matrix](https://github.com/NISHANT7703-9/LeetCode-Submissions/tree/master/0766-toeplitz-matrix) |
 | [1352-product-of-the-last-k-numbers](https://github.com/NISHANT7703-9/LeetCode-Submissions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1534-count-good-triplets](https://github.com/NISHANT7703-9/LeetCode-Submissions/tree/master/1534-count-good-triplets) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/NISHANT7703-9/LeetCode-Submissions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/NISHANT7703-9/LeetCode-Submissions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [1995-count-special-quadruplets](https://github.com/NISHANT7703-9/LeetCode-Submissions/tree/master/1995-count-special-quadruplets) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/NISHANT7703-9/LeetCode-Submissions/tree/master/2567-minimum-score-by-changing-two-elements) |
@@ -128,5 +130,14 @@ A structured collection of LeetCode problem-solving solutions in Python, coverin
 ## Number Theory
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/NISHANT7703-9/LeetCode-Submissions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/NISHANT7703-9/LeetCode-Submissions/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/NISHANT7703-9/LeetCode-Submissions/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/NISHANT7703-9/LeetCode-Submissions/tree/master/1979-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
