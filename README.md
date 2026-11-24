@@ -10,6 +10,7 @@ A structured collection of LeetCode problem-solving solutions in Python, coverin
 | [0050-powx-n](https://github.com/NISHANT7703-9/LeetCode-Submissions/tree/master/0050-powx-n) |
 | [0509-fibonacci-number](https://github.com/NISHANT7703-9/LeetCode-Submissions/tree/master/0509-fibonacci-number) |
 | [1352-product-of-the-last-k-numbers](https://github.com/NISHANT7703-9/LeetCode-Submissions/tree/master/1352-product-of-the-last-k-numbers) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/NISHANT7703-9/LeetCode-Submissions/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Array
 |  |
 | ------- |
@@ -124,4 +125,8 @@ A structured collection of LeetCode problem-solving solutions in Python, coverin
 |  |
 | ------- |
 | [1352-product-of-the-last-k-numbers](https://github.com/NISHANT7703-9/LeetCode-Submissions/tree/master/1352-product-of-the-last-k-numbers) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/NISHANT7703-9/LeetCode-Submissions/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
