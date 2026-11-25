@@ -15,6 +15,7 @@ A structured collection of LeetCode problem-solving solutions in Python, coverin
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/NISHANT7703-9/LeetCode-Submissions/tree/master/0011-container-with-most-water) |
 | [0209-minimum-size-subarray-sum](https://github.com/NISHANT7703-9/LeetCode-Submissions/tree/master/0209-minimum-size-subarray-sum) |
 | [0274-h-index](https://github.com/NISHANT7703-9/LeetCode-Submissions/tree/master/0274-h-index) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/NISHANT7703-9/LeetCode-Submissions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -87,6 +88,7 @@ A structured collection of LeetCode problem-solving solutions in Python, coverin
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/NISHANT7703-9/LeetCode-Submissions/tree/master/0011-container-with-most-water) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/NISHANT7703-9/LeetCode-Submissions/tree/master/2567-minimum-score-by-changing-two-elements) |
 ## Divide and Conquer
 |  |
@@ -140,4 +142,8 @@ A structured collection of LeetCode problem-solving solutions in Python, coverin
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/NISHANT7703-9/LeetCode-Submissions/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/NISHANT7703-9/LeetCode-Submissions/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
