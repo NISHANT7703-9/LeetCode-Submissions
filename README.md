@@ -11,6 +11,7 @@ A structured collection of LeetCode problem-solving solutions in Python, coverin
 | [0509-fibonacci-number](https://github.com/NISHANT7703-9/LeetCode-Submissions/tree/master/0509-fibonacci-number) |
 | [1352-product-of-the-last-k-numbers](https://github.com/NISHANT7703-9/LeetCode-Submissions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/NISHANT7703-9/LeetCode-Submissions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3360-stone-removal-game](https://github.com/NISHANT7703-9/LeetCode-Submissions/tree/master/3360-stone-removal-game) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/NISHANT7703-9/LeetCode-Submissions/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Array
 |  |
@@ -77,6 +78,7 @@ A structured collection of LeetCode problem-solving solutions in Python, coverin
 |  |
 | ------- |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/NISHANT7703-9/LeetCode-Submissions/tree/master/2243-calculate-digit-sum-of-a-string) |
+| [3360-stone-removal-game](https://github.com/NISHANT7703-9/LeetCode-Submissions/tree/master/3360-stone-removal-game) |
 | [3614-process-string-with-special-operations-ii](https://github.com/NISHANT7703-9/LeetCode-Submissions/tree/master/3614-process-string-with-special-operations-ii) |
 ## Hash Table
 |  |
