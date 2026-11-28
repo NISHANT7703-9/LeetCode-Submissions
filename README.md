@@ -9,6 +9,7 @@ A structured collection of LeetCode problem-solving solutions in Python, coverin
 | [0009-palindrome-number](https://github.com/NISHANT7703-9/LeetCode-Submissions/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/NISHANT7703-9/LeetCode-Submissions/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/NISHANT7703-9/LeetCode-Submissions/tree/master/0069-sqrtx) |
+| [0172-factorial-trailing-zeroes](https://github.com/NISHANT7703-9/LeetCode-Submissions/tree/master/0172-factorial-trailing-zeroes) |
 | [0509-fibonacci-number](https://github.com/NISHANT7703-9/LeetCode-Submissions/tree/master/0509-fibonacci-number) |
 | [1352-product-of-the-last-k-numbers](https://github.com/NISHANT7703-9/LeetCode-Submissions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/NISHANT7703-9/LeetCode-Submissions/tree/master/1979-find-greatest-common-divisor-of-array) |
